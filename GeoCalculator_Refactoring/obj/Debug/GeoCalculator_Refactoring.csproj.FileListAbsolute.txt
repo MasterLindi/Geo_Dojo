@@ -1,0 +1,5 @@
+c:\users\cli\documents\visual studio 2013\Projects\GeoCalculator_Refactoring\GeoCalculator_Refactoring\bin\Debug\GeoCalculator_Refactoring.dll
+c:\users\cli\documents\visual studio 2013\Projects\GeoCalculator_Refactoring\GeoCalculator_Refactoring\bin\Debug\GeoCalculator_Refactoring.pdb
+c:\users\cli\documents\visual studio 2013\Projects\GeoCalculator_Refactoring\GeoCalculator_Refactoring\obj\Debug\GeoCalculator_Refactoring.dll
+c:\users\cli\documents\visual studio 2013\Projects\GeoCalculator_Refactoring\GeoCalculator_Refactoring\obj\Debug\GeoCalculator_Refactoring.pdb
+C:\Users\cli\documents\visual studio 2013\Projects\GeoCalculator_Refactoring\GeoCalculator_Refactoring\obj\Debug\GeoCalculator_Refactoring.csprojResolveAssemblyReference.cache
